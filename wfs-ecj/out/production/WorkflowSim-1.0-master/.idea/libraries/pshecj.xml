@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="pshecj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/pshecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jzlib-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jfreechart-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jcommon-1.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jackson-databind-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jackson-core-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/itext-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/EJML-simple-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/EJML-dense64-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/EJML-core-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/ecj.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jar/pshecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jzlib-1.0.7.jar!/" />
+    </SOURCES>
+  </library>
+</component>

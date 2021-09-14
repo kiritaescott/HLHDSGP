@@ -1,0 +1,55 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -29622.71412354379
+Tree 0:
+ (MIN (MAX (MIN RFT MAXMIN) (/ RFT ET)) (-
+     (* WT ECT) (+ UC TS)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -27646.995088754087
+Tree 0:
+ (/ (- (* (MAX (- UC MINMIN) (- MINMIN MINMIN))
+     (MIN (MAX ECT MAXMIN) (+ ECT WT))) (/ (/
+     (MAX MINMIN MAXMIN) (/ TS WT)) (MIN (- WT
+     MINMIN) (MAX RFT VS)))) (MAX (/ (MAX (- ECT
+     ECT) (- VS ECT)) (- (+ UC ET) (MIN UC TS)))
+     (/ (/ (MIN WT RFT) (- WT TS)) (+ (- TS ET)
+         (- UC TS)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: -26783.914640484392
+Tree 0:
+ (MIN (MAX (* (MIN ECT ECT) (+ VS WT)) (*
+     (MIN VS MINMIN) (- RFT VS))) (- (- (/ ET
+     UC) (* VS TS)) (+ (MAX RFT WT) (MIN UC ECT))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: -26783.914640484392
+Tree 0:
+ (MIN (MAX (* (MIN ECT ECT) (+ VS WT)) (*
+     (MIN VS MINMIN) (- RFT VS))) (- (- (/ ET
+     UC) (* VS TS)) (+ (MAX RFT WT) (MIN UC ECT))))
+avgRespTime: 26783.914640484392
+avgCost: 0.40924765529054935
+Number of scenarios : 6
+Mean of overall makespans : 26783.914640484392
+Standard Deviation: 23074.688630078555
+The best rule is: (((ECT MIN ECT) * (VS + WT)) MAX ((VS MIN MINMIN) * (RFT - VS))) MIN (((ET / UC) - (VS * TS)) - ((RFT MAX WT) + (UC MIN ECT)))
+The fitness of the best gpInd is: Fitness: -26783.914640484392
+The average responsetime for for : Montage_50.xml_vm_small.json is: 73.34460801431024
+The average responsetime for for : Montage_100.xml_vm_small.json is: 162.0381829794521
+The average responsetime for for : Inspiral_50.xml_vm_small.json is: 888.1498846234766
+The average responsetime for for : Inspiral_100.xml_vm_small.json is: 683.7416591902828
+The average responsetime for for : CyberShake_50.xml_vm_small.json is: 157.27760309959928
+The average responsetime for for : CyberShake_100.xml_vm_small.json is: 180.41927624907336

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="pshecj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/pshecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jzlib-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jfreechart-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jcommon-1.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jackson-databind-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jackson-core-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/itext-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/EJML-simple-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/EJML-dense64-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/EJML-core-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/ecj.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/pshecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar/jzlib-1.0.7.jar!/" />
+    </SOURCES>
+  </library>
+</component>

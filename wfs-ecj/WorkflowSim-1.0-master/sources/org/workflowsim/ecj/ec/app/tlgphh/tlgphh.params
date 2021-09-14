@@ -1,0 +1,57 @@
+# Copyright 2006 by Sean Luke and George Mason University
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+
+parent.0 = ../../gp/koza/koza.params
+
+# the next four items are already defined in koza.params, but we
+# put them here to be clear.
+
+# We have one function set, of class GPFunctionSet
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+# We'll call the function set "f0".
+gp.fs.0.name = f0
+
+# We have six functions in the function set.  They are:
+gp.fs.0.size = 18
+gp.fs.0.func.0 = ec.app.gphh.Add
+gp.fs.0.func.0.nc = nc2
+gp.fs.0.func.1 = ec.app.gphh.Sub
+gp.fs.0.func.1.nc = nc2
+gp.fs.0.func.2 = ec.app.gphh.Mul
+gp.fs.0.func.2.nc = nc2
+gp.fs.0.func.3 = ec.app.gphh.Div
+gp.fs.0.func.3.nc = nc2
+gp.fs.0.func.4 = ec.app.gphh.Min
+gp.fs.0.func.4.nc = nc2
+gp.fs.0.func.5 = ec.app.gphh.Max
+gp.fs.0.func.5.nc = nc2
+
+gp.fs.0.func.6 = ec.app.gphh.MINMIN
+gp.fs.0.func.6.nc = nc0
+gp.fs.0.func.7 = ec.app.gphh.MAXMIN
+gp.fs.0.func.7.nc = nc0
+gp.fs.0.func.8 = ec.app.gphh.FCFS
+gp.fs.0.func.8.nc = nc0
+gp.fs.0.func.9 = ec.app.gphh.MCT
+gp.fs.0.func.9.nc = nc0
+gp.fs.0.func.10 = ec.app.gphh.RR
+gp.fs.0.func.10.nc = nc0
+gp.fs.0.func.11 = ec.app.gphh.GRPHEFT
+gp.fs.0.func.11.nc = nc0
+gp.fs.0.func.12 = ec.app.gphh.TS
+gp.fs.0.func.12.nc = nc0
+gp.fs.0.func.13 = ec.app.gphh.ET
+gp.fs.0.func.13.nc = nc0
+gp.fs.0.func.14 = ec.app.gphh.VS
+gp.fs.0.func.14.nc = nc0
+gp.fs.0.func.15 = ec.app.gphh.WT
+gp.fs.0.func.15.nc = nc0
+gp.fs.0.func.16 = ec.app.gphh.RT
+gp.fs.0.func.16.nc = nc0
+gp.fs.0.func.17 = ec.app.gphh.ECT
+gp.fs.0.func.17.nc = nc0
+
+eval.problem = ec.app.gphh.MultiValuedRegression
+eval.problem.data = ec.app.gphh.DoubleData
